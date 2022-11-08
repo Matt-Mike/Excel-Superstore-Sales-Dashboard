@@ -1,7 +1,10 @@
-# Excel-Projects
+# Superstore Sales Dashboard
 
 **Superstore Sales**<br/>
 This project identifies the yearly performance of product categories in addition to customer acquisition.
 
-**Aging Analysis**<br/>
-Provides insights into company accounts receivable aging detailing past due balances into buckets and observing balance of new accounts vs old accounts.
+Utilizes the following functions:<br/>
+- Pivot tables to create breakdowns
+- Graphing to provide visualizations
+- Slicers and Timelines for interactivity
+- Practical and aesthetic use of color
