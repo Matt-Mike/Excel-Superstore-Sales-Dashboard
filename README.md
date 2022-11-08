@@ -8,3 +8,4 @@ Utilizes the following functions:<br/>
 - Graphing to provide visualizations
 - Slicers and Timelines for interactivity
 - Practical and aesthetic use of color
+- Conditional formatting for dynamic highlighting
